@@ -1,0 +1,179 @@
+<html>
+  <head>
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"
+          />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> 
+     <script src="https://kit.fontawesome.com/8881dd6692.js" crossorigin="anonymous"></script>
+     <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Loved+by+the+King|Raleway&display=swap" rel="stylesheet">
+  </head>
+  
+  <header id="header">
+ <nav id="nav-bar" class="navbar navbar-expand-lg navbar-light bg-light fixed-top"> 
+         <div class="container-fluid">
+      <img id="header-img" class="navbar-brand" img src="https://static.wixstatic.com/media/e2bd09_21147e43c2154e53b1db3acf45cb6495~mv2.jpg/v1/crop/x_135,y_0,w_1141,h_1140/fill/w_409,h_409,al_c,q_80,usm_0.66_1.00_0.01/e2bd09_21147e43c2154e53b1db3acf45cb6495~mv2.jpg"                             alt="logo" />
+  <ul class="nav justify-content-end">
+  <li class="nav-item">
+    <a class="nav-link" href="features">Features</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#pricing">Pricing</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#how-it-works">How It Works</a>
+  </li>
+ 
+</ul>
+  
+      
+    </div>
+  </nav>
+   <!--Mask-->
+< id="intro" class="view">
+
+  <div class="mask rgba-black-strong">
+ <div class="container-fluid d-flex align-items-center justify-content-center h-100">
+   <div class="row d-flex justify-content-center text-center">
+     <div class="col-md-10">
+      
+<!--/.Mask-->
+ <!-- Heading -->
+    <h2 class="display-4 font-weight-bold white-text pt-5 mb-2">Get Lost.</h2>
+    <!-- Divider -->
+    <hr class="hr-light">
+
+    <!-- Description -->
+    <h4 class="white-text my-4">Experience the Best Adventures from Anywhere.</h4>
+
+</div>
+  </div>
+    </div>
+  </div>
+  </div>
+
+<!--/.Mask-->
+      </header>
+  <!--Main layout-->
+<main class="mt-5">
+    <div class="container">
+
+<hr class="my-5">
+        <!--Section: explore-->
+<section id="explore" class="text-center">
+
+  <!-- Heading -->
+  <h2 class="my-5">Escape to undiscovered worlds created by talented artists.</h2>
+      </section>
+  <!--Grid row-->
+ <div class="row d-flex justify-content-center mb-4">
+    <!--Grid column-->
+      <div class="col-md-8">
+          <!-- Description -->
+ 
+      </div>
+      <!--Grid column-->
+
+ </div>
+  <!--Grid row-->
+  
+  <div class="container-fluid d-flex align-items-center justify-content-center h-100">
+    <div class="row d-flex justify-content-center text-center">
+<form id="form" action="https://www.freecodecamp.com/email-submit"> 
+    <input type="email"  id="email"  placeholder="Enter email" required/>
+   <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>-->
+ <!-- <div class= "pt-5 mb-2">-->
+     <input id="submit" type="submit" value="Sign Up" class="btn btn-secondary"/>
+   <div class= "pt-5 mb-2">
+  </div>
+  </div>
+      </div>
+        </form>
+  <!--Grid row-->
+     <div class="row d-flex justify-content-center text-center">
+    <!--Grid column-->
+     
+    <!--<div class="col-md-4 mb-1">-->
+       <div class="col-md-auto">
+      <i class="fas fa-bolt"></i>
+         <h3 class="mt-4">Our Artists and Writers</h3>
+<p>Come explore our curated stories featured in our showcase.</p>
+  </div>
+    <!--Grid column-->
+<!--<div class="col-md-4 mb-1">-->
+       <div class="col-md-auto">
+  <i class="fas fa-book"></i>
+            <h3 class="mt-4">Genres</h3>
+            <p>Our stories are sure to fulfill your tastes, from sci-fi, paranormal romance, and even mixed genres!</p></div> 
+       <div class="pt-5 mb-2">
+            <iframe id="video" 
+height="315"
+                    src="https://player.vimeo.com/video/337807431" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
+      </div>   
+      </div>
+      </section>
+  <div class= "pt-5 mb-2">
+   <div class="row d-flex justify-content-center text-center">
+       <div class="container-fluid">
+ 
+    <div class="col-md-auto">
+      <h2>Jupiter Package<h2>
+      <h3> $9.99/mo</h3>
+        <ul class="list-group">
+  <li class="list-group-item">Unlimited Access</li>
+  <li class="list-group-item">Exclusive material</li>
+  <li class="list-group-item">Get updates from writers</li>
+  <li class="list-group-item">Discounts*</li>
+          <button type="button" class="btn btn-secondary">I want this!</button>
+</ul>
+    </div>
+    <div class="col-md-auto">
+      <h2> Venus Package</h2>
+      <h3>$5.99/mo</h3>
+      <ul class="list-group">
+  <li class="list-group-item">Access to 10 stories per month</li>
+  <li class="list-group-item">Get updates from writers</li>
+         <li class="list-group-item">Original content</li>
+          <li class="list-group-item">Discounts*</li>
+            <button type="button" class="btn btn-secondary">I want this!</button>
+</ul>
+    </div>
+    <div class="col-md-auto">
+      <h2>Mars Package</h2>
+      <h3>Free!</h3>
+      <ul class="list-group">
+  <li class="list-group-item">Sign up is free</li>
+  <li class="list-group-item">Access to free content on the site</li>
+  <li class="list-group-item">"Pay-as-you go" for single downloads</li>
+            <button type="button" class="btn btn-secondary">I want this!</button>
+</ul>
+        </div>
+    </div>
+  </div>
+</div>    
+
+   </div>
+
+<!--Main layout-->
+
+      
+ 
+     <footer>
+       <div class="pt-5 mb-2">
+       <div class="container-fluid">
+     <!-- Links -->
+       <ul class="list-unstyled">
+         <li><a href="#">Privacy</a></li>
+         <li><a href="#">Terms</a></li>
+         <li><a href="#">Contact</a></li>
+       </ul>
+       <span>&copy;2019 Brazen Fish Entertainment</span>
+         </div>
+       </div>
+     </footer>
+         
+   </div>
+   </div>
+        </div>
+        </main>
+  </>
+</html>
